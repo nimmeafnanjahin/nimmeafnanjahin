@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ahoy! I'm Nimme Afnan Jahin 👋
 
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning Artificial Intelligience 
