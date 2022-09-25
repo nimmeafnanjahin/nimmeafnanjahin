@@ -1,5 +1,5 @@
 ### Ahoy! I'm Nimme Afnan Jahin 👋
-
+<!--
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning Artificial Intelligience 
 - 👯 I’m looking to collaborate on Full Stack Developer
@@ -8,4 +8,5 @@
 - 📫 How to reach me: Facebook - @nimmeafnanjahin
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I really enjoy pucking up new skills
+-->
 
